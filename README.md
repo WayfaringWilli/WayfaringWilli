@@ -1,19 +1,3 @@
-
-# 🌟 Welcome to My GitHub Profile!
-
-### 🚀 About Me
-I am a young and passionate developer with a strong interest in clean code, innovative technologies, and continuous learning.
-
-### 🛠️ Skills & Technologies
-- **Programming Languages:** C#, Python, JavaScript, TypeScript
-- **Frameworks & Tools:** Angular, .Net, Luigi, Azure DevOps, Ansible
-- **Other Technologies:** Git, CI/CD, RESTful APIs  
-
----
-
-### 🌱 Currently Learning...
-- Webserver Deployment
-
 # 🌟 Welcome to My GitHub Profile!
 🚀 About Me:<br>I am a young and passionate developer with a strong interest in clean code, innovative technologies, and continuous learning.<br><br>🛠️ Skills & Technologies<br>Programming Languages: C#, Python, JavaScript, TypeScript<br>Frameworks & Tools: Angular, .Net, Luigi, Azure DevOps, Ansible<br>Other Technologies: Git, CI/CD, RESTful API
 
@@ -24,5 +8,3 @@ I am a young and passionate developer with a strong interest in clean code, inno
 ![](https://github-readme-stats.vercel.app/api?username=WayfaringWilli&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WayfaringWilli&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WayfaringWilli&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
